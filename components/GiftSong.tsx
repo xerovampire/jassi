@@ -29,7 +29,7 @@ const GiftSong: React.FC<GiftSongProps> = ({ onBack, onRestart }) => {
            <div className="absolute -inset-2 border-2 border-dashed border-val-red/50 rounded-2xl pointer-events-none animate-pulse"></div>
            
            <img 
-            src="https://iili.io/qHWT2x2.th.jpg"
+            src="https://iili.io/qHWXYRR.md.jpg"
             alt="Song QR Code" 
             className="w-64 h-64"
            />
