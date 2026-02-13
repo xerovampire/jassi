@@ -23,10 +23,10 @@ const GiftFlowers: React.FC<GiftFlowersProps> = ({ onBack }) => {
         {/* Left Messages */}
         <div className="flex flex-col gap-6 w-1/3 z-10">
           <MessageBubble rotation="-rotate-2">
-            I will always love you no matter what
+            I will always love you unconditionally baby 💗.
           </MessageBubble>
           <MessageBubble rotation="rotate-3">
-            You are the best part of my life
+            You will always be my priority 🫰🏽.
           </MessageBubble>
         </div>
 
@@ -48,10 +48,10 @@ const GiftFlowers: React.FC<GiftFlowersProps> = ({ onBack }) => {
         {/* Right Messages */}
         <div className="flex flex-col gap-6 w-1/3 z-10">
            <MessageBubble rotation="rotate-2">
-            You will forever be my only option.
+            You are the peace I always needed 😌. 
           </MessageBubble>
           <MessageBubble rotation="-rotate-3">
-            I can't imagine a life without you in it
+            Please always be mine Komal 💘.
           </MessageBubble>
         </div>
 

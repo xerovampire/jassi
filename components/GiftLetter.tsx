@@ -31,10 +31,11 @@ const GiftLetter: React.FC<GiftLetterProps> = ({ onBack }) => {
             }}
           >
             <p>To the love of my life,</p>
-            <p>You make my life so meaningful and I am so lucky to have you as my valentine this year.</p>
-            <p>I love you wholeheartedly and I can't wait to continue loving you for the rest of my life.</p>
-            <p>I know I tell you this everyday but you are literally the most beautiful girl I know.</p>
-            <p>Anyways, I love you.</p>
+            <p>You make my life meaningful and happy, and I wish it's the same for you.</p>
+            <p>I am happy to call you my valentine this year too (sorry for last year).</p>
+            <p>I love you so much and can't wait to love you for the rest of my life. Please always be my valentine, Komal.</p>
+            <p>I know I say this every day and you are tired of hearing this,</p>
+            <p>but you are the most beautiful, the cutest, and the hottest girl in this world.</p>
             <p className="mt-8 text-right font-bold text-val-red">- Your Valentine</p>
           </div>
         </div>
